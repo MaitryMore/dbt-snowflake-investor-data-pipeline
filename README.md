@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Welcome to your new dbt project!
+DBT Snowflake Investor Data Pipeline Project
 
 ### Using the starter project
 
